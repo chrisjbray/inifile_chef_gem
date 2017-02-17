@@ -33,7 +33,7 @@ end
 ```
 
 #### Parameters
-- ge_version - Teh version of rubygem to be installed. Defaults to 3.0.0
+- gem_version - The version of rubygem to be installed. Defaults to 3.0.0
 
 #### Actions
 - :install - build and install gem into Chef's Ruby enviroment
